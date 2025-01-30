@@ -1,0 +1,8 @@
+#hello-world-canvas {
+  border: 1px solid black;
+
+  display: block;
+  width: 1200px;
+  height: 800px;
+  margin: 0 auto;
+}
